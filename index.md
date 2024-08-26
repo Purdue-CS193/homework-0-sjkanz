@@ -25,8 +25,18 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+# HELLO WORLD
+## Hello - this is a test of the headers and what the number of hashmarks does to text
+### Hello readers and headers
+**we like them bold**
+'Code font text'
+_written in italics_
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+My favorite desserts
+- pumpkin pie
+- brownies
+- chocolate chip cookies
 
 ### Jekyll Themes
 
