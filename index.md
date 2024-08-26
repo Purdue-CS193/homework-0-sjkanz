@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+# Sabine's First CS193 Homework
+
+Some of my favorite things about CS193:
+- the instructors are nice
+- it's preparing us for the real world
+- taught me how to use Github
+- I have a friend in the class
+
+My favorite desserts:
+- pumpkin pie
+- brownies
+- chocolate chip cookies
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -29,14 +40,11 @@ Syntax highlighted code block
 ## Hello - this is a test of the headers and what the number of hashmarks does to text
 ### Hello readers and headers
 **we like them bold**
-'Code font text'
+`Code font text ooo I think I like this`
 _written in italics_
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-My favorite desserts
-- pumpkin pie
-- brownies
-- chocolate chip cookies
+
 
 ### Jekyll Themes
 
